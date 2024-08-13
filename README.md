@@ -7,11 +7,11 @@ A R.N.G (std::mt19937) is seeded with time and used to generate a number between
 ### DICE 2D GAMEPLAY:
 As you can see the options are: Enter to roll, Q to quit. It's the same with DICE3D.
 
-![DICE2D.png](https://github.com/javakotlinuser/DICE/blob/main/assets/DICE2D.png)
+![DICE2D.png](https://github.com/userc68/dice/blob/main/assets/DICE2D.png)
 
 ### DICE 3D GAMEPLAY:
 I like to think this logo is awesome, im really proud of it.
 
-![DICE3D.png](https://github.com/javakotlinuser/DICE/blob/main/assets/DICE3D.png)
+![DICE3D.png](https://github.com/userc68/dice/blob/main/assets/DICE3D.png)
 ### IN CONCLUSION
 I think this has been a great project, I hope you guys can learn from and enjoy it.
