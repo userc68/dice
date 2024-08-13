@@ -1,4 +1,4 @@
-Hello, I hope im not writing to myself here. It's me javakotlinuser@gmail.com.
+Hello, I hope im not writing to myself here. It's me usercpp.dev@gmail.com
 Heres some information about the project:
 Graphics can be found in graphics.txt
 Games can be found in:
